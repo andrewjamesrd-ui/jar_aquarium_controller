@@ -12,7 +12,7 @@
 #define TFT_CS   10
 #define TFT_DC   14
 #define TFT_RST  9
-#define TFT_BL   17
+#define TFT_BL   46
 
 // I2C
 #define I2C_SDA_PIN 8
